@@ -9,7 +9,7 @@ The main aim is to create a puzzle game where number flies into proper cell. The
 | #     | File       | Description                                                |
 | :---: | ---------- | ---------------------------------------------------------- |
 |   1   | [game.py](https://github.com/ashrithap02/5443-2D-Parupati/blob/main/Assignments/P01/game.py)       | Main driver of my project that launches game.        |
-|   2   | [Images]         | Folder with screenshots of the game.                 |
+|   2   | [Images](https://github.com/ashrithap02/5443-2D-Parupati/tree/main/Assignments/P01/Images)        | Folder with screenshots of the game.                 |
 
 ### Instructions:
 
@@ -21,3 +21,8 @@ The main aim is to create a puzzle game where number flies into proper cell. The
 
 ### Screenshots:
 
+![start](https://user-images.githubusercontent.com/123601025/218342216-77e87eee-57e7-4e36-bf58-fb47bf13d0ca.JPG)
+
+![lose](https://user-images.githubusercontent.com/123601025/218342227-ec85c988-2894-4071-a339-dca0b6e77630.JPG)
+
+![won](https://user-images.githubusercontent.com/123601025/218342237-8e11e5b7-f77e-4856-b17f-08c684fbe7ac.JPG)
