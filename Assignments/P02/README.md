@@ -9,7 +9,7 @@ The main aim is to create a TwoPlayer Game-Projectile Dual where two players wil
 | #    | File        | Description                                            |
 |:---: | ----------- | ------------------------------------------------------ |
 |  1   | [main.py](https://github.com/ashrithap02/5443-2D-Parupati/blob/main/Assignments/P02/main.py)      | Main driver of my project that launches game      |
-|  2   | [Images](
+|  2   | [Images](https://github.com/ashrithap02/5443-2D-Parupati/tree/main/Assignments/P02/Images)       | Folder containing sprites of players(1 & 2)        |
 
 ### Instructions
 
