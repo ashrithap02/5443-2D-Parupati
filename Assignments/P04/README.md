@@ -21,5 +21,5 @@ The main aim of the project is to create Adventure - Collaborative game. Players
 - Make sure install pygame library.
 - Player is represented by Green and enemies are represented by red.
 - Ammo and Grenades represent lives of the player.
-- Use 'A' and 'D' for movements and 'W' for releasing bullets.
+- Use 'A' and 'D' for right and left, 'W' for jump and Space button for releasing bullets.
 - There are three levels to finish the game by player.
