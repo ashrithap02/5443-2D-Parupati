@@ -10,8 +10,8 @@ The main aim is to create a Multiplayer game dual. There are asteroids and space
 
 ### Files
 
-|  #  | Files   | Description                         |
-|:---:| ------- | ----------------------------------- |
+|  #  | Files   | Description                          |
+|:---:| ------- | ------------------------------------ |
 |  1  | [__main__.py](https://github.com/ashrithap02/5443-2D-Parupati/blob/main/Assignments/P03/__main__.py) | Main driver of project that launches game |
 |  2  | [game.py](https://github.com/ashrithap02/5443-2D-Parupati/blob/main/Assignments/P03/game.py) |
 |  3  | [HealthBar.py](https://github.com/ashrithap02/5443-2D-Parupati/blob/main/Assignments/P03/HealthBar.py) |
