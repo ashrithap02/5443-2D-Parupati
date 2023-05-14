@@ -1,6 +1,6 @@
-from game import SpaceRocks
+from game import Space_game
 
 
 if __name__ == "__main__":
-    space_rocks = SpaceRocks()
-    space_rocks.main_loop()
+    obj = Space_game()
+    obj.main_loop()
