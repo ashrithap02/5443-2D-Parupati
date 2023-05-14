@@ -12,7 +12,7 @@ from pygame.math import Vector2
 import sys
 
 
-class SpaceRocks:
+class Space_game:
     MIN_ASTEROID_DISTANCE = 250
 
     def __init__(self):
