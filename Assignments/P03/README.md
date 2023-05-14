@@ -14,7 +14,7 @@ The main aim is to create a Multiplayer game dual.
 |  4  | [models.py](https://github.com/ashrithap02/5443-2D-Parupati/blob/main/Assignments/P03/models.py) |
 |  5  | [ Scores.py](https://github.com/ashrithap02/5443-2D-Parupati/blob/main/Assignments/P03/Scores.py) |
 |  6  | [startField.py](https://github.com/ashrithap02/5443-2D-Parupati/blob/main/Assignments/P03/starField.py) |
-|  7  | [user.py](
+|  7  | [user.py](https://github.com/ashrithap02/5443-2D-Parupati/blob/main/Assignments/P03/user.py) |
 |  8  | [utils.py](
 
 ### Instructions
