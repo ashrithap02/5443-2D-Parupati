@@ -8,8 +8,8 @@ The main aim is to create a Multiplayer game dual.
 
 |  #  | Files   | Description                         |
 |:---:| ------- | ----------------------------------- |
-|  1  | [__main__.py]
-|  2  | [game.py]
+|  1  | [__main__.py](https://github.com/ashrithap02/5443-2D-Parupati/blob/main/Assignments/P03/__main__.py) |
+|  2  | [game.py](
 |  3  | [HealthBar.py]
 |  4  | [models.py]
 |  5  | [ Scores.py]
