@@ -1,5 +1,6 @@
 ## P01 - SUDOKU GAME
 ### Ashritha Parupati
+### Sravani Seelam
 ### Project Description
 
 The main aim is to create a puzzle game where number flies into proper cell. The goal of sudoku game is to fill numbers 1-9 exactly once in every row, column and 3x3 region. Install pygame module and initialize it. Set up screen size and title along with dimensions for puzzle grid. Use functions to calculate, when number is entered in a cell.
